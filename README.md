@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Chaitanya Jagarwal</h1>
-<h3 align="center">A passionate Software Engineer from India, Currently I am working as a Freelancer</h3>
+<h3 align="centre">A passionate Software Engineer from India, I am currently working as a Freelancer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya029&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya029" /> </p>
 
