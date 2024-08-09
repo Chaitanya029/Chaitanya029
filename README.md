@@ -1,11 +1,15 @@
 <h1 align="center">Hey Everyone <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, I'm Chaitanya Jagarwal</h1>
-<h3 align="center">A passionate Software Engineer from India, I am currently working as a Freelancer</h3>
-
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"> </div>
+<h3 align="center">A passionate Software Engineer from India & Currently working as a Freelancer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya029&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya029" /> </p>
+
+<br clear="both">
+
+<img align="right" height="300" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMyNDMzMzksIm5iZiI6MTcyMzI0MzAzOSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA5VDIyMzcxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1MmQ4NTY2OWVkODQ0ZmI4M2E4NjJkNjg0YWViYTYwYjVhMGRiYWEwYTgxMmM2MjIzOGIxOGI4Njc5ZGUzZGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.C2HgvLjhBpIgDUBSULfj-kK7_QA86FfD1P890nR5Owo"  />
 
 - 🔭 I’m currently working on [Jenkins Remoting Project](https://github.com/Chaitanya029/remoting)
 
-- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
+- 🌱 I’m currently learning **DevSecOps & Cloud DevOps**
 
 - 👨‍💻 All of my projects are available at [@Chaitanya029](https://github.com/Chaitanya029/)
 
@@ -35,3 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya029&" alt="chaitanya029" /></p>
 
+<img src="https://raw.githubusercontent.com/Chaitanya029/Chaitanya029/output/snake.svg" alt="Snake animation" />
