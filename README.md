@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, I'm Chaitanya Jagarwal</h1>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-<h3 align="center">A passionate Software Engineer from India & Currently working as a Freelancer</h3>
+<h3 align="center">A passionate Software Engineer from India & Currently working as a Freelancer <br> Let's connect and explore how I can contribute to your success!</h3>
 <br clear="both"> <img align="right" height="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya029&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya029" /> </p>
 
