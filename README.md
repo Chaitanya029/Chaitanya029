@@ -18,16 +18,19 @@
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chaitanya-jagarwal-5b52281b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chaitanya-jagarwal-5b52281b6/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/cheese_chait/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/cheese_chait/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chaitanya-jagarwal-5b52281b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanya-jagarwal-5b52281b6" height="30" width="40" /></a>
+<a href="https://instagram.com/cheese_chait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cheese_chait" height="30" width="40" /></a>
 <a href="https://twitter.com/29_chaitanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="29_chaitanya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chaitanyajagarwal29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chaitanyajagarwal29" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/chaitanyajagarwal29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/chaitanyajagarwal29/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/chaitanyajagarwal29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chaitanyajagarwal29" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/fit_fawn_08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="fit_fawn_08" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@chaitanyajagarwal29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@chaitanyajagarwal29" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/24038323/chaitanya-jagarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24038323/chaitanya-jagarwal" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/users/804749302874112063" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/804749302874112063" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/24038323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24038323" height="30" width="40" /></a>
+<a href="https://discord.gg/804749302874112063" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="804749302874112063" height="30" width="40" /></a>
 </p>
+
+</p>
+
 
 <br><br> 
 <img align="left" height="150" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e " />
