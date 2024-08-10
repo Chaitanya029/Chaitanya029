@@ -46,8 +46,5 @@
 ### 🔝 Top Contributed Repo
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya029&" alt="chaitanya029" /></p>
 
-![Snake animation](https://raw.githubusercontent.com/Chaitanya029/Chaitanya029/output/github-contribution-grid-snake-dark.svg)
-
-
 
 
